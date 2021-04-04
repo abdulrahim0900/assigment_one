@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_height="match_parent"
+
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+
+
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:id="@+id/tx0"
+        style="@style/TextViewStyle3"
+        android:text="@string/seconed" />
+
+
+    <TextView
+        android:id="@+id/tx1"
+        style="@style/TextViewStyle"
+
+       />
+
+
+    <TextView
+        android:id="@+id/tx2"
+        style="@style/TextViewStyle"
+
+        />
+
+    <TextView
+        android:id="@+id/tx3"
+
+        style="@style/TextViewStyle"
+
+        />
+
+    <TextView
+        android:id="@+id/tx4"
+
+        style="@style/TextViewStyle"
+        />
+
+    <TextView
+        android:id="@+id/tx5"
+
+        style="@style/TextViewStyle"
+        />
+
+    <TextView
+        android:id="@+id/tx6"
+        style="@style/TextViewStyle"/>
+
+
+
+
+
+
+</LinearLayout>
